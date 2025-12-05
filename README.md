@@ -11,7 +11,7 @@
 
   ## What I've Shipped
 
-  **ReVA — AI Chatbot Infrastructure**
+  **ReVA: AI Chatbot Infrastructure**
   - Built infrastructure from scratch: Terraform for multi-environment deployment, observability, and CI/CD
   - Improved RAG embedding speed by **20X** by replacing bottlenecks
   - Chose Open WebUI over custom frontend, reducing team from **6 to 2 developers**
