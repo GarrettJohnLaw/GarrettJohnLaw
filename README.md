@@ -1,42 +1,45 @@
 # Garrett John Law
 
-  **Software Engineer** · AI Infrastructure · Backend Systems · Ships Fast
+**Software Engineer** · AWS · Terraform · System Design · Ships Fast
 
-  I build AI infrastructure and applications that ship in weeks, not months.
+I build AI infrastructure and applications that ship in weeks, not months.
 
-  ## What I Do
+## What I Do
 
-  At Re:Build Manufacturing, I build backend systems and AI infrastructure: Terraform, observability, and CI/CD. I care about
-  solving the actual problem, not building impressive architecture for its own sake.
+At Re:Build Manufacturing, I build production backend systems and the cloud infrastructure behind them: AWS, Terraform, observability, and CI/CD. I care about solving the actual problem, not building impressive architecture for its own sake.
 
-  ## What I've Shipped
+## What I've Shipped
 
-  **ReVA: AI Chatbot Infrastructure**
-  - Built infrastructure from scratch: Terraform for multi-environment deployment, observability, and CI/CD
-  - Improved RAG embedding speed by **20X** by replacing bottlenecks
-  - Chose Open WebUI over custom frontend, reducing team from **6 to 2 developers**
+**AI Chatbot Platform**
+- Built the infrastructure from scratch: AWS and Terraform across multiple environments, observability, and CI/CD
+- Improved RAG embedding speed **20x** by removing pipeline bottlenecks
+- Chose Open WebUI over a custom frontend, cutting the team from **6 to 2 developers**
 
-  **Manufacturing Scheduler**
-  - Built a finite scheduling application in **1 month** through daily customer meetings
-  - Outperformed a vendor solution priced at **$30k/year**
+**Manufacturing Scheduler**
+- Built a finite-capacity scheduling application in **1 month** through daily customer collaboration
+- Replaced a commercial vendor tool
 
-  ## Tech Stack
+## Tech Stack
 
-  - **Infrastructure:** Terraform, AWS (ECS, Lambda, Bedrock), CI/CD Pipelines
-  - **Backend:** C# / .NET, TypeScript, GraphQL, REST APIs
-  - **AI/ML:** LiteLLM, RAG Systems, AWS Bedrock
-  - **Data:** PostgreSQL, DynamoDB
-  - **Observability:** CloudWatch, custom metrics
+- **Cloud & infra:** AWS (ECS, Lambda, Bedrock), Terraform, CI/CD pipelines
+- **System design:** distributed services, observability, build-vs-buy
+- **Languages:** Python, TypeScript, C# / .NET
+- **AI/ML:** RAG systems, LiteLLM, AWS Bedrock
+- **Data:** PostgreSQL, DynamoDB
 
-  ## What I Care About
+## Beyond Code
 
-  - Solving the actual problem, not impressive architecture
-  - Talking to customers, not just writing code
-  - Simple solutions that work
-  - Owning the full stack: application code, infrastructure, observability, CI/CD
+Founder of Fugue Lab (digital agency) and Fairmeadow Capital (multifamily real estate). I like building systems and businesses that compound.
 
-  ## Connect
+## What I Care About
 
-  - [LinkedIn](https://www.linkedin.com/in/garrettjohnlaw/)
-  - [Website](https://garrettjohnlaw.com)
-  - garrett@garrettjohnlaw.com
+- Solving the actual problem, not impressive architecture
+- Talking to customers, not just writing code
+- Simple solutions that work
+- Owning the full stack: application code, infrastructure, observability, CI/CD
+
+## Connect
+
+- [Website](https://garrettjohnlaw.com)
+- [LinkedIn](https://www.linkedin.com/in/garrettjohnlaw/)
+- garrett@garrettjohnlaw.com
