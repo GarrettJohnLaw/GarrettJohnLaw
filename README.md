@@ -31,7 +31,7 @@ I architected and lead the company's internal AI assistant for regulated data. I
 
 ## Beyond code
 
-Founder of Fugue Lab, software for music organizations. I also own and operate rental real estate through Fairmeadow Capital. Before software I spent 12 years as a church musician, and I still play organ on Sundays.
+Founder of Fugue Lab, software for music organizations. I also own and operate rental real estate through Fairmeadow Capital. Before software I spent 12 years as a church musician.
 
 ## Connect
 
