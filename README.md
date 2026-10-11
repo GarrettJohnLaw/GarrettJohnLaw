@@ -6,7 +6,7 @@ I build AI systems that are grounded, observable, and cheap enough to run, and I
 
 ## At Re:Build Manufacturing
 
-I architected and lead the company's internal AI assistant for regulated data, and I'm on its on-call rotation. I was promoted to Senior in Sep 2026 for this work.
+I architected and lead the company's internal AI assistant for regulated data. I was promoted to Senior in Sep 2026 for this work.
 
 - Built the platform from scratch: infrastructure as code across dev, staging, and prod, plus observability and CI/CD
 - Made the build-vs-buy call that shipped it in **weeks instead of months**
