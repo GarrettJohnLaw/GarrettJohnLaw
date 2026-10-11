@@ -1,45 +1,40 @@
 # Garrett John Law
 
-**Software Engineer** · AWS · Terraform · System Design · Ships Fast
+**Senior Software Engineer** · Production LLM systems: agents, retrieval, evals, cost
 
-I build AI infrastructure and applications that ship in weeks, not months.
+I build AI systems that are grounded, observable, and cheap enough to run, and I ship them in weeks, not months.
 
-## What I Do
+## At Re:Build Manufacturing
 
-At Re:Build Manufacturing, I build production backend systems and the cloud infrastructure behind them: AWS, Terraform, observability, and CI/CD. I care about solving the actual problem, not building impressive architecture for its own sake.
+I architected and lead the company's internal AI assistant for regulated data, and I'm on its on-call rotation. I was promoted to Senior in Sep 2026 for this work.
 
-## What I've Shipped
+- Built the platform from scratch: infrastructure as code across dev, staging, and prod, plus observability and CI/CD
+- Made the build-vs-buy call that shipped it in **weeks instead of months**
+- Rebuilt the embedding pipeline for a **20x** throughput gain
+- Put guardrails on every model call and per-user LLM spend caps on every user
+- Built a sandbox that lets the agent analyze structured data too large for a chat window
+- Set the department-wide auth standard, adopted across **20+ applications**
+- Delivered a finite-capacity manufacturing scheduler in **1 month**, replacing a commercial vendor tool
 
-**AI Chatbot Platform**
-- Built the infrastructure from scratch: AWS and Terraform across multiple environments, observability, and CI/CD
-- Improved RAG embedding speed **20x** by removing pipeline bottlenecks
-- Chose Open WebUI over a custom frontend, cutting the team from **6 to 2 developers**
+## On my own
 
-**Manufacturing Scheduler**
-- Built a finite-capacity scheduling application in **1 month** through daily customer collaboration
-- Replaced a commercial vendor tool
+- **Operations agent:** a Bedrock agent that runs bookkeeping, real-estate underwriting, and CRM for my businesses through 160 typed tools. Every write it proposes is staged as a plan and waits for my approval.
+- **Payments for a multi-tenant SaaS:** Stripe Connect direct charges and PayPal multiparty behind one provider interface, with idempotent webhook fulfillment and automated reconciliation.
+- **The Full Score:** an evaluation engine that grades a live website on six weighted pillars using real browser-rendered checks.
 
-## Tech Stack
+## Stack
 
-- **Cloud & infra:** AWS (ECS, Lambda, Bedrock), Terraform, CI/CD pipelines
-- **System design:** distributed services, observability, build-vs-buy
-- **Languages:** Python, TypeScript, C# / .NET
-- **AI/ML:** RAG systems, LiteLLM, AWS Bedrock
-- **Data:** PostgreSQL, DynamoDB
+- **AI:** AWS Bedrock, RAG, agents and tool use, evals, guardrails, LLM observability and cost control
+- **Cloud & infra:** AWS (Lambda, ECS, DynamoDB, S3), Terraform across multiple accounts, CI/CD
+- **Languages:** TypeScript, Python, C# / .NET, SQL
+- **Frontend:** React, Vite, Next.js, Tailwind
 
-## Beyond Code
+## Beyond code
 
-Founder of Fugue Lab (digital agency) and Fairmeadow Capital (multifamily real estate). I like building systems and businesses that compound.
-
-## What I Care About
-
-- Solving the actual problem, not impressive architecture
-- Talking to customers, not just writing code
-- Simple solutions that work
-- Owning the full stack: application code, infrastructure, observability, CI/CD
+Founder of Fugue Lab, software for music organizations. I also own and operate rental real estate through Fairmeadow Capital. Before software I spent 12 years as a church musician, and I still play organ on Sundays.
 
 ## Connect
 
-- [Website](https://garrettjohnlaw.com)
+- [ai.garrettjohnlaw.com](https://ai.garrettjohnlaw.com)
 - [LinkedIn](https://www.linkedin.com/in/garrettjohnlaw/)
 - garrett@garrettjohnlaw.com
