@@ -11,7 +11,7 @@ I architected and lead the company's internal AI assistant for regulated data, a
 - Built the platform from scratch: infrastructure as code across dev, staging, and prod, plus observability and CI/CD
 - Made the build-vs-buy call that shipped it in **weeks instead of months**
 - Rebuilt the embedding pipeline for a **20x** throughput gain
-- Put guardrails on every model call and per-user LLM spend caps on every user
+- Put guardrails on every model call and enforced per-user LLM spend caps
 - Built a sandbox that lets the agent analyze structured data too large for a chat window
 - Set the department-wide auth standard, adopted across **20+ applications**
 - Delivered a finite-capacity manufacturing scheduler in **1 month**, replacing a commercial vendor tool
